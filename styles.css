@@ -20,7 +20,7 @@
   
   #navbar {
     height: 100%;
-    border-right: solid 2.5px #333;
+    border-right: solid 2.5px #;
   }
   
   #navbar>h1 {
@@ -38,7 +38,7 @@
   }
   
   #navbar ul li {
-    border: solid 1.3px #333;
+    border: solid 1.3px #;
   }
   
   #main-header #navbar ul li a {
