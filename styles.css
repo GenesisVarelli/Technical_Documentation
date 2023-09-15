@@ -6,7 +6,7 @@
   body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.5;
-    background-color: #f1f1f1;
+    background-color: #000;
   }
   
   #main-header {
@@ -46,7 +46,7 @@
     text-align: left;
     padding: .8rem 1rem .8rem 2rem;
     cursor: pointer;
-    color: #222;
+    color: #fff;
     text-decoration: none;
   }
   
@@ -85,7 +85,7 @@
     display: block;
     padding: 1.5rem;
     text-align: left;
-    background-color: #ddd;
+    background-color: #000;
     border-radius: 7px;
     margin-bottom: 1rem;
   }
